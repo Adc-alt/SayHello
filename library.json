@@ -5,7 +5,7 @@
     "keywords": "How to, Library",
     "repository":{
                     "type": "git",
-                    "url": "https://github.com/Adc-alt/Code_repo"
+                    "url": "lib_deps = https://github.com/Adc-alt/SayHello.git"
 
                  },
     "authors": [
